@@ -1,5 +1,13 @@
 .content {
-    width: 80%;
+    border: solid 5px black;
+    width: 50%;
     text-align: center;
-    padding-left: 10%;
+    padding: 5%;
+    margin: 0 auto;
+    font-size: 125%;
+}
+
+.facts {
+    border: solid 3px black;
+    padding: 2%;
 }
